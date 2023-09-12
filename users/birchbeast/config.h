@@ -2,7 +2,9 @@
  *
  * Global config across keymaps
  */
-#define TAPPING_FORCE_HOLD
+#define EE_HANDS
+
+#define PERMISSIVE_HOLD
 #undef TAPPING_TERM
 #define TAPPING_TERM 240
 #define TAPPING_TERM_PER_KEY
